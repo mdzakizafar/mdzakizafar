@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered web applications, Java GUI projects, and Data Analytics using Python & Power BI.<br><br>👯 I’m looking to collaborate on Open Source, Full-Stack Web Development, AI/ML, and Data Analytics projects.<br><br>🤝 I’m looking for help with Advanced React, Node.js, Cloud Deployment (AWS), and Machine Learning model optimization.<br><br>🌱 I’m currently learning Data Structures & Algorithms, MERN Stack, AWS Cloud, and Advanced Machine Learning.<br><br>💬 Ask me about Java, Python, SQL, React.js, Java Swing, Power BI, Data Analysis, and Web Development.<br><br>⚡ Fun fact: I enjoy turning real-world problems into software solutions—from AI quiz generators to inventory management systems—and I'm always exploring new technologies.
+🔭 Currently working on Full-Stack Web Development and AI-powered applications.<br><br>
 
+👯 Looking to collaborate on Java, React, Python, and Open Source projects.<br><br>
+
+🤝 Looking for mentorship in System Design, Backend Development, and Cloud Technologies.<br><br>
+
+🌱 Learning DSA, MERN Stack, AWS, Machine Learning, and Software Engineering best practices.<br><br>
+
+💬 Ask me about Java, Python, SQL, React, Java Swing, Power BI, Data Analytics, and Problem Solving.<br><br>
+
+⚡ Fun fact: I enjoy building projects that combine software engineering with AI to solve practical problems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/z4zaakkii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/md-zaki-zafar-) 

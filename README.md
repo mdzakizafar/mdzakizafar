@@ -70,37 +70,50 @@ I enjoy building practical applications that combine **software development, dat
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 AI Incident Commander
 
-AI-powered incident investigation dashboard designed to analyze evidence and generate an investigation plan.
+AI-powered incident investigation dashboard that analyzes evidence, generates hypotheses, and creates an investigation plan.
 
 **Tech:** React • Python • AI
 
-🔗 [View Project](https://github.com/mdzakizafar/ai-incident-commander)
+[🔗 GitHub](https://github.com/mdzakizafar/ai-incident-commander)  
+[🌐 Live Demo](https://ai-incident-commander-gamma.vercel.app/)
 
-🌐 [Live Demo](https://ai-incident-commander-gamma.vercel.app/)
+</td>
 
----
+<td width="50%">
 
 ### 🌾 AgroBuddy
 
-A smart agriculture platform combining data, analytics and intelligent features to assist users in agriculture-related decisions.
+A data-driven agriculture platform designed to provide useful insights and intelligent assistance for farmers.
 
-**Tech:** React • Python • Data Analytics • DuckDB
+**Tech:** React • Python • Data Analytics
 
-🔗 [View Project](https://github.com/mdzakizafar/AgroBuddy)
+[🔗 GitHub](https://github.com/mdzakizafar/AgroBuddy)
 
----
+</td>
+</tr>
 
-### 🧒 Kid Tutor Learning App
+<tr>
+<td width="50%">
 
-An adaptive AI-powered learning application that generates quizzes based on topics and adjusts question difficulty according to user performance.
+### 🧑‍🏫 Kid Tutor Learning App
+
+An adaptive AI-powered learning application that generates quizzes based on topics and adjusts difficulty according to user performance.
 
 **Tech:** React • JavaScript • Gemini API
 
----
+[🔗 GitHub](https://github.com/mdzakizafar/Kid-Tutor-Learning-App)
+
+</td>
+
+<td width="50%">
 
 ### 🚗 Electric Vehicle Analysis Dashboard
 
@@ -108,49 +121,11 @@ Data analysis and visualization project exploring electric vehicle data and gene
 
 **Tech:** Power BI • Data Analytics
 
----
+[🔗 GitHub](https://github.com/mdzakizafar/Electric-Vehicle-Analysis-Dashboard)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdzakizafar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzakizafar&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mdzakizafar&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Md Zaki Zafar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdzakizafar&theme=github-compact&hide_border=true)](https://github.com/mdzakizafar)
-
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdzakizafar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
+</td>
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 

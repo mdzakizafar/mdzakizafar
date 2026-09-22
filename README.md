@@ -1,33 +1,185 @@
-# 💫 About Me:
-🔭 Currently working on Full-Stack Web Development and AI-powered applications.<br><br>
-
-👯 Looking to collaborate on Java, React, Python, and Open Source projects.<br><br>
-
-🤝 Looking for mentorship in System Design, Backend Development, and Cloud Technologies.<br><br>
-
-🌱 Learning DSA, MERN Stack, AWS, Machine Learning, and Software Engineering best practices.<br><br>
-
-💬 Ask me about Java, Python, SQL, React, Java Swing, Power BI, Data Analytics, and Problem Solving.<br><br>
-
-⚡ Fun fact: I enjoy building projects that combine software engineering with AI to solve practical problems.
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/z4zaakkii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/md-zaki-zafar-) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# 👋 Hi, I'm Md Zaki Zafar
+
+### Data Science • AI • Software Development
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Python+%7C+Java+%7C+SQL;Building+Real+World+Projects;Always+Learning+%26+Building" />
+
+<br>
+
+<a href="https://github.com/mdzakizafar">
+<img src="https://komarev.com/ghpvc/?username=mdzakizafar&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
 </div>
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mdzakizafar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mdzakizafar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdzakizafar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👨‍💻 About Me
+
+I'm **Md Zaki Zafar**, a Computer Science Engineering student specializing in **Data Science**.
+
+I enjoy building practical applications that combine **software development, data analytics, and artificial intelligence**.
+
+- 🎓 B.Tech CSE — Data Science
+- 🤖 Interested in AI, Machine Learning & Data Science
+- 📊 Interested in Data Analytics & Visualization
+- 💻 Building applications with Python, Java & JavaScript
+- 🌱 Currently learning Data Engineering, Big Data & AI
+- 🚀 I enjoy turning ideas into working projects
+- 💡 Always learning, experimenting and building
+
+> **Learn → Build → Experiment → Improve 🚀**
 
 ---
-[![](https://komarev.com/ghpvc/?username=mdzakizafar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ My Tech Stack
+
+### 👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
+
+### 📊 Data Science & Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Python • Pandas • NumPy • Scikit-learn • PySpark • Power BI • SQL**
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Incident Commander
+
+AI-powered incident investigation dashboard designed to analyze evidence and generate an investigation plan.
+
+**Tech:** React • Python • AI
+
+🔗 [View Project](https://github.com/mdzakizafar/ai-incident-commander)
+
+🌐 [Live Demo](https://ai-incident-commander-gamma.vercel.app/)
+
+---
+
+### 🌾 AgroBuddy
+
+A smart agriculture platform combining data, analytics and intelligent features to assist users in agriculture-related decisions.
+
+**Tech:** React • Python • Data Analytics • DuckDB
+
+🔗 [View Project](https://github.com/mdzakizafar/AgroBuddy)
+
+---
+
+### 🧒 Kid Tutor Learning App
+
+An adaptive AI-powered learning application that generates quizzes based on topics and adjusts question difficulty according to user performance.
+
+**Tech:** React • JavaScript • Gemini API
+
+---
+
+### 🚗 Electric Vehicle Analysis Dashboard
+
+Data analysis and visualization project exploring electric vehicle data and generating interactive insights.
+
+**Tech:** Power BI • Data Analytics
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdzakizafar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzakizafar&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mdzakizafar&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdzakizafar&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mdzakizafar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mdzakizafar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-zaki-zafar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mdzakizafar.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Build things that solve real problems."
+
+<br>
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
+
+</div>

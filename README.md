@@ -138,11 +138,9 @@ Data analysis and visualization project exploring electric vehicle data and gene
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdzakizafar&theme=github-compact&hide_border=true" />
+[![Md Zaki Zafar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdzakizafar&theme=github-compact&hide_border=true)](https://github.com/mdzakizafar)
 
 </div>
-
----
 
 ## 🏆 GitHub Achievements
 
